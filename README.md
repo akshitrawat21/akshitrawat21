@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on Full stack project's.<br>👯 I’m looking to collaborate on frontend backend and full stack projects<br>🤝 I’m looking for help with to get a freelance project.<br>🌱 I’m currently learning Next.js, Discord Bot Dev an many others.<br>💬 Ask me about front end.<br>⚡ Fun fact I want to dive into every new technology.  I want to explore every thing possible.
+🔭 I’m currently working on Full stack project's Fun fact I want to dive into every new technology.  I want to explore every thing possible.
 
 
 ## 🌐 Socials:
