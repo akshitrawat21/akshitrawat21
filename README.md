@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshit Rawat</h1>
 
 <p align="center">
-  💻 Full-Stack Developer • 🌱 Explorer of All Things Tech • 🎯 Always Curious
+  💻 Full-Stack Developer • 🌱 Tech Adventurer: From Code to Cloud • 🎯 Driven by Curiosity, Committed to Learning
 </p>
 
 ---
