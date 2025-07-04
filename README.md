@@ -18,6 +18,9 @@
   <a href="https://www.linkedin.com/in/akshitrawat21/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="mailto:rawatakshit1234@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
